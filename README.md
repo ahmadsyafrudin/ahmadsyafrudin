@@ -1,4 +1,10 @@
+![Good Morning kecil](https://user-images.githubusercontent.com/11618498/196605706-3affb460-9afa-4d32-ba5d-33beeb715870.jpg)
+
 ### Hi there 👋
+I'm Backend Developer, Love Python and GOlang.
+
+| [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ahmadsyafrudin&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/ahmadsyafrudin) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyafrudin&layout=compact&hide_border=true&theme=gruvbox)](https://github.com/ahmadsyafrudin) |
+| ------------- | ------------- |
 
 <!--
 **ahmadsyafrudin/ahmadsyafrudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
