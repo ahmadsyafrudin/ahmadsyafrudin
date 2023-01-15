@@ -3,7 +3,7 @@
 ### Hi there 👋
 I'm Backend Developer, Love Python and GOlang.
 
-| [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ahmadsyafrudin&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/ahmadsyafrudin) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyafrudin&layout=compact&hide_border=true&theme=gruvbox)](https://github.com/ahmadsyafrudin) |
+| [![Anurag’s github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=ahmadsyafrudin&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/ahmadsyafrudin) | [![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=ahmadsyafrudin&layout=compact&hide_border=true&theme=gruvbox)](https://github.com/ahmadsyafrudin) |
 | ------------- | ------------- |
 
 <!--
